@@ -1,0 +1,449 @@
+{
+  "name": "System Development",
+  "children": [
+    {
+      "name": "Stacks",
+      "children": [
+        {
+          "name": "Development Stack",
+          "url": "https://github.com/unruledboy/DevelopmentStack"
+        },
+        {
+          "name": "Web Front End Stack",
+          "url": "https://github.com/unruledboy/WebFrontEndStack"
+        },
+        {
+          "name": "Database Stack",
+          "url": "https://github.com/unruledboy/DatabaseStack"
+        },
+        {
+          "name": ".NET Stack",
+          "url": "https://github.com/unruledboy/DotNetStack"
+        }
+      ]
+    },
+    {
+      "name": "Basics",
+      "children": [
+        {
+          "name": "Software Development Life Cycle (SDLC)",
+          "url": "https://en.wikipedia.org/wiki/Systems_development_life_cycle",
+          "children": [
+            { "name": "Initiation" },
+            { "name": "System Concept Development" },
+            { "name": "Planning" },
+            { "name": "Requirements Analysis" },
+            { "name": "Design" },
+            { "name": "Development" },
+            { "name": "Integration & Test" },
+            { "name": "Implementation" },
+            { "name": "Operations & Maintenance" },
+            { "name": "Disposition" }
+          ]
+        },
+        {
+          "name": "Methodologies",
+          "children": [
+            { "name": "Waterfall" },
+            {
+              "name": "Agile",
+              "children": [
+                {
+                  "name": "Scrum",
+                  "children": [
+                    { "name": "Daily Scrum (Standup)" },
+                    { "name": "Backlog" },
+                    { "name": "Sprint" }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Standards",
+          "children": [
+            { "name": "Coding Standard" },
+            { "name": "Documentation Standard" },
+            { "name": "Release Standard" }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Project / Planning",
+      "children": [
+        {
+          "name": "Target",
+          "children": [
+            { "name": "Resource" },
+            { "name": "Time" }
+          ]
+        },
+        {
+          "name": "Tools",
+          "children": [
+            { "name": "Microsoft Project" }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Analysis",
+      "children": [
+        {
+          "name": "Methodologies",
+          "children": [
+            { "name": "Object Oriented Analysis (OOA)" }
+          ]
+        },
+        {
+          "name": "Steps",
+          "children": [
+            { "name": "Scope Defintion" },
+            { "name": "Problem Analsysis" },
+            { "name": "Requirement Analysis" },
+            { "name": "Logical Design" },
+            { "name": "Decision Analysis" }
+          ]
+        },
+        {
+          "name": "Target",
+          "children": [
+            { "name": "Feasibility" }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Documentation",
+      "children": [
+        {
+          "name": "Specifications",
+          "children": [
+            { "name": "Software Requirement Specification (SRS)" },
+            { "name": "Software Architecture Description" }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Design / Modeling",
+      "children": [
+        {
+          "name": "Primitives",
+          "children": [
+            {
+              "name": "Wireframe",
+              "children": [
+                { "name": "Functional skeleton" }
+              ]
+            },
+            {
+              "name": "Mockup",
+              "children": [
+                { "name": "GUI design" }
+              ]
+            },
+            {
+              "name": "Prototype",
+              "children": [
+                { "name": "Minimal functioning design" }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Concepts",
+          "children": [
+            {
+              "name": "Object Oriented Programming (OOP)"
+            },
+            {
+              "name": "Object Oriented Design (OOD)"
+            },
+            {
+              "name": "Complex Design"
+            },
+            {
+              "name": "Simplistic Design"
+            }
+          ]
+        },
+        {
+          "name": "Thoughts",
+          "children": [
+            {
+              "name": "Don't Repeat Yourself (DRY)"
+            },
+            {
+              "name": "Keep It Simple Stupid (KISS)"
+            },
+            {
+              "name": "You Aren't Gonna Need It (YAGNI)"
+            }
+          ]
+        },
+        {
+          "name": "S.O.L.I.D.",
+          "children": [
+            {
+              "name": "Single Responsibility Principle (SRP)"
+            },
+            {
+              "name": "Open/Closed Principle (OCP)"
+            },
+            {
+              "name": "Liskov Subsistitution Principle (LSP)"
+            },
+            {
+              "name": "Interface Segration Principle (ISP)"
+            },
+            {
+              "name": "Dependency Inversion Principle (DIP)"
+            }
+          ]
+        },
+        {
+          "name": "Design Patterns",
+          "children": [
+            {
+              "name": "GoF 23"
+            }
+          ]
+        },
+        {
+          "name": "Tools",
+          "children": [
+            {
+              "name": "Visio"
+            },
+            {
+              "name": "UML",
+              "children": [
+                {
+                  "name": "Rational Rose"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Development",
+      "children": [
+        {
+          "name": "Concetps",
+          "children": [
+            { "name": "Zero Bug Bounce (ZBB)" }
+          ]
+        },
+        {
+          "name": "Development",
+          "children": [
+            { "name": "Integrated Development Environment (IDE)" },
+            { "name": "Retrofit" }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Quality",
+      "children": [
+        {
+          "name": "Code Review / Peer Review",
+          "children": [
+            { "name": "Formal" },
+            {
+              "name": "Lightweight",
+              "children": [
+                { "name": "Over-the-shoulder" },
+                { "name": "Email pass-around" },
+                { "name": "Pair programming" },
+                { "name": "Tool-assisted" }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Management",
+      "children": [
+        {
+          "name": "Source Code Control",
+          "children": [
+            { "name": "TFS" },
+            { "name": "Git" },
+            { "name": "Subversion (SVN)" },
+            { "name": "Concurrent Versions System (CVS)" },
+            { "name": "Mercurial" },
+            { "name": "Visual Source Safe ;-)" }
+          ]
+        },
+        {
+          "name": "Bug",
+          "children": [
+            { "name": "JIRA" },
+            { "name": "Bugzilla" }
+          ]
+        },
+        {
+          "name": "Documents",
+          "children": [
+            { "name": "Confluence" }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Build",
+      "children": [
+        {
+          "name": "Manual Compilation"
+        },
+        {
+          "name": "Build Automation",
+          "children": [
+            { "name": "Daily Build" },
+            { "name": "Nightly Build" }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Testing",
+      "children": [
+        {
+          "name": "Concepts",
+          "children": [
+            { "name": "Continuous Integration (CI)" },
+            { "name": "Dry Run" }
+          ]
+        },
+        {
+          "name": "Integration Tools",
+          "children": [
+            { "name": "Team City" }
+          ]
+        },
+        {
+          "name": "Testing Levels",
+          "children": [
+            {
+              "name": "Unit Testing"
+            },
+            {
+              "name": "Integration Test",
+              "children": [
+                { "name": "Big bang" },
+                { "name": "Top-down" },
+                { "name": "Bottom-up" },
+                { "name": "Sandwich" }
+              ]
+            },
+            {
+              "name": "Performance Testing",
+              "children": [
+                { "name": "Load Testing" },
+                { "name": "Stress Testing" },
+                { "name": "Spike Testing" },
+                { "name": "Configuration Testing" }
+              ]
+            },
+            {
+              "name": "Acceptance Testing",
+              "children": [
+                { "name": "User Acceptance Testing (UAT)" },
+                { "name": "Operational Acceptance Testing" }
+              ]
+            },
+            {
+              "name": "System Testing"
+            }
+          ]
+        },
+        {
+          "name": "Testing Methods (the box approach)",
+          "children": [
+            {
+              "name": "White-box Testing / Clear-box Testing / Glass-box Testing",
+              "children": [
+                { "name": "Unit Testing" },
+                { "name": "Integration Testing" },
+                { "name": "Regression Testing" }
+              ]
+            },
+            {
+              "name": "Black-box Testing",
+              "children": [
+                { "name": "Smoke Testing" },
+                { "name": "Sanity Testing" },
+                { "name": "Regression Testing" },
+                { "name": "Usability Testing" }
+              ]
+            },
+            {
+              "name": "Gray-box Testing"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Deployment / Release / Rollout",
+      "children": [
+        {
+          "name": "Concepts",
+          "children": [
+            { "name": "Release Management" },
+            { "name": "Continuous Deployment (CD)" }
+          ]
+        },
+        {
+          "name": "Tools",
+          "children": [
+            { "name": "Octopus Deploy" }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Maintenance"
+    },
+    {
+      "name": "Troubleshooting",
+      "children": [
+        {
+          "name": "Raygun",
+          "url": "https://raygun.io"
+        }
+      ]
+    },
+    {
+      "name": "Learning",
+      "children": [
+        {
+          "name": "Pluralsight",
+          "url": "http://www.pluralsight.com/"
+        },
+        {
+          "name": "Lynda",
+          "url": "http://www.lynda.com/"
+        },
+        {
+          "name": "Coursera",
+          "url": "https://www.coursera.org/"
+        },
+        {
+          "name": "open2study",
+          "url": "https://www.open2study.com/"
+        },
+        {
+          "name": "iTunes College"
+        }
+      ]
+    }
+  ]
+}

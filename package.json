@@ -1,0 +1,35 @@
+{
+  "name": "DevelopmentStack",
+  "version": "2.0.0",
+  "description": "Generate a image for system development stack.",
+  "main": "index.js",
+  "scripts": {
+    "build": "node index phantomjs readme",
+    "start": "node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/unruledboy/DevelopmentStack.git"
+  },
+  "keywords": [
+    "System",
+    "Development",
+    "Stack"
+  ],
+  "author": [
+    "unruledboy <unruledboy@gmail.com>",
+    "zsx <zsx@zsxsoft.com>"
+  ],
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/unruledboy/DevelopmentStack/issues"
+  },
+  "homepage": "https://github.com/unruledboy/DevelopmentStack",
+  "dependencies": {
+    "async": "^1.4.2",
+    "bluebird": "^2.9.34",
+    "express": "^4.13.3",
+    "phantom": "^0.7.2",
+    "request": "^2.61.0"
+  }
+}
