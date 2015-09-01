@@ -67,6 +67,20 @@
             { "name": "Documentation Standard" },
             { "name": "Release Standard" }
           ]
+        },
+        {
+          "name": "Protocols",
+          "children": [
+            { "name": "HTTP" }
+          ]
+        },
+        {
+          "name": "Formats",
+          "children": [
+            { "name": "XML" },
+            { "name": "JSON" },
+            { "name": "MIME" }
+          ]
         }
       ]
     },
@@ -136,13 +150,19 @@
             {
               "name": "Wireframe",
               "children": [
-                { "name": "Functional skeleton" }
+                { "name": "Functional skeleton design" }
               ]
             },
             {
               "name": "Mockup",
               "children": [
                 { "name": "GUI design" }
+              ]
+            },
+            {
+              "name": "Proof of Concept (POC)",
+              "children": [
+                { "name": "Initial functional R&D" }
               ]
             },
             {

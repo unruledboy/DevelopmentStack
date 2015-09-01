@@ -56,6 +56,12 @@ https://rawgit.com/unruledboy/DevelopmentStack/master/ux/DevelopmentStack.htm
 			- Coding Standard
 			- Documentation Standard
 			- Release Standard
+		- Protocols
+			- HTTP
+		- Formats
+			- XML
+			- JSON
+			- MIME
 	- Project / Planning
 		- Target
 			- Resource
@@ -80,9 +86,11 @@ https://rawgit.com/unruledboy/DevelopmentStack/master/ux/DevelopmentStack.htm
 	- Design / Modeling
 		- Primitives
 			- Wireframe
-				- Functional skeleton
+				- Functional skeleton design
 			- Mockup
 				- GUI design
+			- Proof of Concept (POC)
+				- Initial functional R&D
 			- Prototype
 				- Minimal functioning design
 		- Concepts
