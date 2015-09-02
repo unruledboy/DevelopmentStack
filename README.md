@@ -45,6 +45,67 @@ https://rawgit.com/unruledboy/DevelopmentStack/master/ux/DevelopmentStack.htm
 			- Implementation
 			- Operations & Maintenance
 			- Disposition
+		- Environments
+			- Operation Systems (OS)
+				- Windows
+				- Linux
+				- Mac OS
+				- Unix
+				- BSD
+				- DOS  ;-)
+			- Desktop
+				- Graphical User Interface (GUI)
+				- Console User Interface (CUI)
+			- Mobile
+				- Android
+				- iOS
+				- Windows Phone (WP)
+				- BlackBerry ;-)
+				- Symbian ;-)
+				- Windows Mobile (WM) ;-)
+			- Web
+				- Front End
+				- Cloud
+					- Service Models
+						- System/Software as a Service (SaaS)
+						- Platform as a Service (PaaS)
+						- Infrastructure as a Service (IaaS)
+						- Desktop as a Service (DaaS)
+						- Backend as a Service (BaaS)
+					- Types
+						- Private Cloud
+						- Public Cloud
+							- Providers
+								- Microsoft Azure
+								- Amazon Web Services (AWS)
+								- Google Cloud
+						- Hybrid Cloud
+		- Common Concepts
+			- Application Programming Interface (API)
+			- Component
+				- Library
+				- Plug-in
+				- Extension
+				- Assembly
+		- Architecture
+			- Standalone
+				- Desktop app
+				- Mobile app
+			- Multi Layers / n-Tiers
+				- Frontend / User Interface (UI)
+				- Backend
+				- Database
+		- Software Types
+			- Open source
+				- Licenses
+					- GNU General Public License (GPL)
+					- GNU Lesser General Public License (LGPL)
+					- Apache License
+					- MIT License
+					- Mozilla Public License
+					- Microsoft Public License (MS-PL)
+			- Closed source / Freeware
+			- Commercial
 		- Methodologies
 			- Waterfall
 			- Agile
@@ -128,14 +189,43 @@ https://rawgit.com/unruledboy/DevelopmentStack/master/ux/DevelopmentStack.htm
 				- Email pass-around
 				- Pair programming
 				- Tool-assisted
+		- Quality Measurement
+			- Robustness
+			- Efficiency
+			- Reliability
+				- Correctness
+				- Availability
+			- Security
+			- Adequacy
+			- Maintainability
+			- Learnability
+			- Readability
+			- Extensibility
+			- Testability
+			- Portability
+			- Usability
+		- Fault tolerance
+			- Fail-fast
+			- Fail-safe
+			- Fail-secure
+		- User Experience (UX)
+		- Security
+			- SSL
 	- Management
 		- Source Code Control
-			- TFS
-			- Git
-			- Subversion (SVN)
-			- Concurrent Versions System (CVS)
-			- Mercurial
-			- Visual Source Safe ;-)
+			- Basics
+				- Team Foundation Server (TFS)
+				- Git
+				- Subversion (SVN)
+				- Concurrent Versions System (CVS)
+				- Mercurial
+				- Visual Source Safe ;-)
+			- Cloud Hosted
+				- GitHub
+				- Bitbucket
+				- CodePlex
+				- SourceForge ;-)
+			- Escrow
 		- Bug
 			- JIRA
 			- Bugzilla

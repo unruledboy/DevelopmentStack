@@ -42,6 +42,139 @@
           ]
         },
         {
+          "name": "Environments",
+          "children": [
+            {
+              "name": "Operation Systems (OS)",
+              "children": [
+                { "name": "Windows" },
+                { "name": "Linux" },
+                { "name": "Mac OS" },
+                { "name": "Unix" },
+                { "name": "BSD" },
+                { "name": "DOS  ;-)" }
+              ]
+            },
+            {
+              "name": "Desktop",
+              "children": [
+                { "name": "Graphical User Interface (GUI)" },
+                { "name": "Console User Interface (CUI)" }
+              ]
+            },
+            {
+              "name": "Mobile",
+              "children": [
+                { "name": "Android" },
+                { "name": "iOS" },
+                { "name": "Windows Phone (WP)" },
+                { "name": "BlackBerry ;-)" },
+                { "name": "Symbian ;-)" },
+                { "name": "Windows Mobile (WM) ;-)" }
+              ]
+            },
+            {
+              "name": "Web",
+              "children": [
+                { "name": "Front End" },
+                {
+                  "name": "Cloud",
+                  "children": [
+                    {
+                      "name": "Service Models",
+                      "children": [
+                        { "name": "System/Software as a Service (SaaS)" },
+                        { "name": "Platform as a Service (PaaS)" },
+                        { "name": "Infrastructure as a Service (IaaS)" },
+                        { "name": "Desktop as a Service (DaaS)" },
+                        { "name": "Backend as a Service (BaaS)" }
+                      ]
+                    },
+                    {
+                      "name": "Types",
+                      "children": [
+                        { "name": "Private Cloud" },
+                        {
+                          "name": "Public Cloud",
+                          "children": [
+                            {
+                              "name": "Providers",
+                              "children": [
+                                { "name": "Microsoft Azure" },
+                                { "name": "Amazon Web Services (AWS)" },
+                                { "name": "Google Cloud" }
+                              ]
+                            }
+                          ]
+                        },
+                        { "name": "Hybrid Cloud" }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Common Concepts",
+          "children": [
+            { "name": "Application Programming Interface (API)" },
+            {
+              "name": "Component",
+              "children": [
+                { "name": "Library" },
+                { "name": "Plug-in" },
+                { "name": "Extension" },
+                { "name": "Assembly" }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Architecture",
+          "children": [
+            {
+              "name": "Standalone",
+              "children": [
+                { "name": "Desktop app" },
+                { "name": "Mobile app" }
+              ]
+            },
+            {
+              "name": "Multi Layers / n-Tiers",
+              "children": [
+                { "name": "Frontend / User Interface (UI)" },
+                { "name": "Backend" },
+                { "name": "Database" }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Software Types",
+          "children": [
+            {
+              "name": "Open source",
+              "children": [
+                {
+                  "name": "Licenses",
+                  "children": [
+                    { "name": "GNU General Public License (GPL)" },
+                    { "name": "GNU Lesser General Public License (LGPL)" },
+                    { "name": "Apache License" },
+                    { "name": "MIT License" },
+                    { "name": "Mozilla Public License" },
+                    { "name": "Microsoft Public License (MS-PL)" }
+                  ]
+                }
+              ]
+            },
+            { "name": "Closed source / Freeware" },
+            { "name": "Commercial" }
+          ]
+        },
+        {
           "name": "Methodologies",
           "children": [
             { "name": "Waterfall" },
@@ -285,6 +418,46 @@
               ]
             }
           ]
+        },
+        {
+          "name": "Quality Measurement",
+          "children": [
+            { "name": "Robustness" },
+            { "name": "Efficiency" },
+            {
+              "name": "Reliability",
+              "children": [
+                { "name": "Correctness" },
+                { "name": "Availability" }
+              ]
+            },
+            { "name": "Security" },
+            { "name": "Adequacy" },
+            { "name": "Maintainability" },
+            { "name": "Learnability" },
+            { "name": "Readability" },
+            { "name": "Extensibility" },
+            { "name": "Testability" },
+            { "name": "Portability" },
+            { "name": "Usability" }
+          ]
+        },
+        {
+          "name": "Fault tolerance",
+          "children": [
+            { "name": "Fail-fast" },
+            { "name": "Fail-safe" },
+            { "name": "Fail-secure" }
+          ]
+        },
+        {
+          "name": "User Experience (UX)"
+        },
+        {
+          "name": "Security",
+          "children": [
+            { "name": "SSL" }
+          ]
         }
       ]
     },
@@ -294,12 +467,27 @@
         {
           "name": "Source Code Control",
           "children": [
-            { "name": "TFS" },
-            { "name": "Git" },
-            { "name": "Subversion (SVN)" },
-            { "name": "Concurrent Versions System (CVS)" },
-            { "name": "Mercurial" },
-            { "name": "Visual Source Safe ;-)" }
+            {
+              "name": "Basics",
+              "children": [
+                { "name": "Team Foundation Server (TFS)" },
+                { "name": "Git" },
+                { "name": "Subversion (SVN)" },
+                { "name": "Concurrent Versions System (CVS)" },
+                { "name": "Mercurial" },
+                { "name": "Visual Source Safe ;-)" }
+              ]
+            },
+            {
+              "name": "Cloud Hosted",
+              "children": [
+                { "name": "GitHub" },
+                { "name": "Bitbucket" },
+                { "name": "CodePlex" },
+                { "name": "SourceForge ;-)" }
+              ]
+            },
+            { "name": "Escrow" }
           ]
         },
         {
