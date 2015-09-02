@@ -13,7 +13,7 @@ var app = new express();
 var queueReady = ["server"];
 
 var pageWidth = 2800; // Magic number!
-var pageHeight = 2700;
+var pageHeight = 3700;
 
 var config = {
     port: 3000, 
