@@ -172,9 +172,13 @@ https://rawgit.com/unruledboy/DevelopmentStack/master/ux/DevelopmentStack.htm
 		- Design Patterns
 			- GoF 23
 		- Tools
-			- Visio
-			- UML
-				- Rational Rose
+			- Functional
+				- Visio
+				- UML
+					- Rational Rose
+			- Database
+				- ER Studio
+				- ERwin
 	- Development
 		- Concetps
 			- Zero Bug Bounce (ZBB)

@@ -369,13 +369,29 @@
           "name": "Tools",
           "children": [
             {
-              "name": "Visio"
-            },
-            {
-              "name": "UML",
+              "name": "Functional",
               "children": [
                 {
-                  "name": "Rational Rose"
+                  "name": "Visio"
+                },
+                {
+                  "name": "UML",
+                  "children": [
+                    {
+                      "name": "Rational Rose"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Database",
+              "children": [
+                {
+                  "name": "ER Studio"
+                },
+                {
+                  "name": "ERwin"
                 }
               ]
             }
