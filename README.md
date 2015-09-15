@@ -180,7 +180,7 @@ https://rawgit.com/unruledboy/DevelopmentStack/master/ux/DevelopmentStack.htm
 				- ER Studio
 				- ERwin
 	- Development
-		- Concetps
+		- Concepts
 			- Zero Bug Bounce (ZBB)
 		- Development
 			- Integrated Development Environment (IDE)
