@@ -80,6 +80,9 @@ https://rawgit.com/unruledboy/DevelopmentStack/master/ux/DevelopmentStack.htm
 								- Amazon Web Services (AWS)
 								- Google Cloud
 						- Hybrid Cloud
+			- Platforms
+				- [.NET](https://github.com/unruledboy/DotNetStack)
+				- [Java](https://www.java.com)
 		- Common Concepts
 			- Application Programming Interface (API)
 			- Component
@@ -94,7 +97,7 @@ https://rawgit.com/unruledboy/DevelopmentStack/master/ux/DevelopmentStack.htm
 			- Multi Layers / n-Tiers
 				- Frontend / User Interface (UI)
 				- Backend
-				- Database
+				- [Database](https://github.com/unruledboy/DatabaseStack)
 		- Software Types
 			- Open source
 				- Licenses
@@ -182,6 +185,7 @@ https://rawgit.com/unruledboy/DevelopmentStack/master/ux/DevelopmentStack.htm
 	- Development
 		- Concepts
 			- Zero Bug Bounce (ZBB)
+			- [MVP (Minimum Viable Product)](https://en.wikipedia.org/wiki/Minimum_viable_product)
 		- Development
 			- Integrated Development Environment (IDE)
 			- Retrofit
@@ -193,7 +197,7 @@ https://rawgit.com/unruledboy/DevelopmentStack/master/ux/DevelopmentStack.htm
 				- Email pass-around
 				- Pair programming
 				- Tool-assisted
-		- Quality Measurement
+		- [Quality Measurement](https://en.wikipedia.org/wiki/Software_quality)
 			- Robustness
 			- Efficiency
 			- Reliability
@@ -209,12 +213,14 @@ https://rawgit.com/unruledboy/DevelopmentStack/master/ux/DevelopmentStack.htm
 			- Portability
 			- Usability
 		- Fault tolerance
-			- Fail-fast
+			- [Fail-fast](https://en.wikipedia.org/wiki/Fail-fast)
 			- Fail-safe
 			- Fail-secure
 		- User Experience (UX)
 		- Security
 			- SSL
+			- Authentication
+			- Authorization
 	- Management
 		- Source Code Control
 			- Basics

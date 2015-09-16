@@ -12,7 +12,7 @@ var fs = Promise.promisifyAll(require('fs'));
 var app = new express();
 var queueReady = ["server"];
 
-var pageWidth = 3200; // Magic number!
+var pageWidth = 3900; // Magic number!
 var pageHeight = 3700;
 
 var config = {

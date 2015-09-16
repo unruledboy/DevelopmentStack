@@ -113,6 +113,19 @@
                   ]
                 }
               ]
+            },
+            {
+              "name": "Platforms",
+              "children": [
+                {
+                  "name": ".NET",
+                  "url": "https://github.com/unruledboy/DotNetStack"
+                },
+                {
+                  "name": "Java",
+                  "url": "https://www.java.com"
+                }
+              ]
             }
           ]
         },
@@ -146,7 +159,10 @@
               "children": [
                 { "name": "Frontend / User Interface (UI)" },
                 { "name": "Backend" },
-                { "name": "Database" }
+                {
+                  "name": "Database",
+                  "url": "https://github.com/unruledboy/DatabaseStack"
+                }
               ]
             }
           ]
@@ -405,7 +421,11 @@
         {
           "name": "Concepts",
           "children": [
-            { "name": "Zero Bug Bounce (ZBB)" }
+            { "name": "Zero Bug Bounce (ZBB)" },
+            {
+              "name": "MVP (Minimum Viable Product)",
+              "url": "https://en.wikipedia.org/wiki/Minimum_viable_product"
+            }
           ]
         },
         {
@@ -437,6 +457,7 @@
         },
         {
           "name": "Quality Measurement",
+          "url": "https://en.wikipedia.org/wiki/Software_quality",
           "children": [
             { "name": "Robustness" },
             { "name": "Efficiency" },
@@ -461,7 +482,10 @@
         {
           "name": "Fault tolerance",
           "children": [
-            { "name": "Fail-fast" },
+            {
+              "name": "Fail-fast",
+              "url": "https://en.wikipedia.org/wiki/Fail-fast"
+            },
             { "name": "Fail-safe" },
             { "name": "Fail-secure" }
           ]
@@ -472,7 +496,9 @@
         {
           "name": "Security",
           "children": [
-            { "name": "SSL" }
+            { "name": "SSL" },
+            { "name": "Authentication" },
+            { "name": "Authorization" }
           ]
         }
       ]
