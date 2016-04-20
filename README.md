@@ -290,6 +290,8 @@ https://rawgit.com/unruledboy/DevelopmentStack/master/ux/DevelopmentStack.htm
 		- [Raygun](https://raygun.io)
 	- Learning
 		- [Pluralsight](http://www.pluralsight.com/)
+		- [Code School](https://www.codeschool.com/)
+		- [Codecademy](https://www.codecademy.com/)
 		- [Lynda](http://www.lynda.com/)
 		- [Coursera](https://www.coursera.org/)
 		- [open2study](https://www.open2study.com/)
