@@ -21,7 +21,7 @@ There might be issues here and there, like the category, the individual ones, bu
 
 You can have a graphical preview here (use mouse to move / zoom): 
 
-https://rawgit.com/unruledboy/DevelopmentStack/master/ux/DevelopmentStack.htm 
+https://combinatronics.com/unruledboy/DevelopmentStack/master/ux/DevelopmentStack.htm 
 
 
 # The Development Stack
